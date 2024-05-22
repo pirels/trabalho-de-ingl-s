@@ -1,0 +1,187 @@
+html, body {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+ }
+ 
+ #img-fundo {
+   
+    height: 100%;
+    text-align: center;
+    background-size: cover;    
+ }
+ 
+ #titulo1 {
+    color: #03300B;
+    padding-top: 10%;
+    font-size: 70px;
+    
+ 
+ }
+ 
+ #titulo2 {
+    color: #03300B;
+    padding-left: 20%;
+    padding-right: 20%;
+ }
+ 
+ #link {
+    color: #03300B;
+    border: 3px rgb(27, 128, 20) solid;
+    padding: 10px 20px 10px 20px;
+    
+ }
+ 
+ .coluna {
+    float: left;
+    padding: 3% 5%;
+    position: relative;
+ }
+ 
+ .dois {
+    width: 40%;
+ }
+ 
+ .centralizado {
+    text-align: center;
+ }
+ 
+ .justificar{
+    text-align: justify;
+    font-size: 27px;
+
+ }
+ 
+ 
+ section {
+    padding: 2%;
+    float: left;
+ }
+ 
+ 
+ .destaque {
+    background-color: rgb(255, 255, 255)
+ }
+ 
+ .quatro {
+    width: 23%;
+ }
+ 
+ .icone {
+    width: 51px;
+ }
+ 
+ .tres {
+    width: 29%;
+    padding: 0 2%;
+ }
+ 
+ .imgeco {
+    width: 90%;
+    height: 50%;
+ }
+ 
+ #selecao {
+    background-color: rgb(255, 255, 255);
+ }
+ 
+ .selecao {
+    background-color: black;
+ }
+ 
+ 
+ #linha{
+   border: 2px black solid;
+   te
+ }
+ 
+ .corzinha2 {
+    color: aliceblue;
+ 
+ }
+ 
+ #logodiv {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    padding: 0px;
+ }
+ 
+ #logo1 {
+    margin-left: 0px;
+    transform: translateX(-50%);
+ }
+ 
+ #logo {
+    width: 96px;
+    position: absolute;
+    top: 10px;
+    margin-left: -48%;
+ 
+ }
+ 
+ #menu {
+    
+    float: right;
+    margin-right: 5%;
+    list-style: none;
+    margin-top: 0px;
+ }
+ 
+ li {
+    float: left;
+    padding: 20 10 20 10;
+ }
+ 
+ li:hover {
+    background-color: rgb(26, 255, 0);
+   
+ }
+ 
+ header {
+    background-color: #03300B;
+    color: aliceblue;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+ }
+
+ .tt {
+    font-size: 30px;
+ }
+
+
+ .container {
+    width: 80%;
+    margin: 0 auto;
+ }
+ 
+ 
+ .color{
+    color: #117c1e;
+ }
+ 
+ 
+ 
+ 
+ footer {
+    background-color: #03300B;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+ }
+
+ .tamanho {
+ 
+    padding-bottom: 30%;
+ }
+
+ .pp {
+    font-size: 20px;
+ }
+
+ a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+ }
